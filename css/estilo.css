@@ -1,0 +1,29 @@
+/* Aplicar un estilo a todo el body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Estilo para el título principal */
+h1 {
+    color: #333;
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+/* Estilo para las imágenes */
+img {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+}
+
+/* Estilo para los videos */
+video {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+}
